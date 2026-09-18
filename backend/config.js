@@ -1,0 +1,7 @@
+module.exports = {
+    SEATS_COUNT: 20,
+    HOLD_EXPIRY_SECONDS: 60,
+    MAX_ACTIVE_HOLDS: 2,
+    MAX_HOURLY_HOLDS: 5,
+    MAX_EXTENSIONS: 2
+};
